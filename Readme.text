@@ -1,0 +1,6 @@
+npx create-react-app pokemon-app
+cd pokemon-app
+src/Components/PokemonThumbnail.js
+src/Components/Description.js
+src/App.js
+npm start
